@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Dao Bao Tram's Blog</title>
+
+<p title="About My Blog">A little corner</p>
+<center>
+</head>
+
+<body style="background-color:LemonChiffon">
+
+<h1 style="font-family:Adobe Ming Std"> Welcome to My Blog (ˇ⊖ˇ) </h1>
+
+<iframe src="https://giphy.com/embed/1fjnYmxQsOdF8SDa6n" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1fjnYmxQsOdF8SDa6n">via GIPHY</a></p><br>
+<sub>this is mine pic :> </sub>
+
+<p style="font-family:Adobe Ming Std; font-size:17px">Hi, there ! I know you're here because you want to know more about me. Hmm, I'm just a <q>simple person</q>. I like reading many types of books. Sometimes listening to music. . I also like to talk with everyone. I will not say all about myself here.<br>Let talk to each other outside the screen so we can understand each other more.</p>
+
+
+<h2 style="font-family:Adobe Ming Std"><mark>Slytherin</mark></h2>
+
+<iframe src="https://giphy.com/embed/113B5nxe6WuIus"  width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/harry-potter-tom-draco-113B5nxe6WuIus" style="text-decoration:none" target="_blank">via GIPHY</a></p>
+
+<sub>*is one of fours house in Harry Potter</sub>
+
+<p style="font-family:Adobe Ming Std"><strong>Slytherin traits</strong></p>
+<pre style="font-family:Adobe Ming Std; font-size:14px">
+ Cunning
+  	
+ Ambitious
+	
+ Resourceful
+
+ Shrewd
+
+ Determined
+</pre>
+
+<hr />
+<blockquote style="font-family:Adobe Ming Std" cite ="https://www.goodreads.com/quotes/227321-never-forget-what-you-are-for-surely-the-world-will">“Never forget who you are, for surely the world will not. Make it your strength and  it will never be your weakness. Armour yourself in it, and it will never be used to hurt you.”
+</blockquote>
+<hr />
+
+<img src="" width="50" height="50"> <p> ✿ Contact me in ✿ </p>
+
+<a href="https://www.facebook.com/ashe.jinniin" style="text-decoration:none" target="_blank">Facebook</a>
+<br>
+
+<a href="https://www.instagram.com/tramdb_/" style="text-decoration:none" target="_blank" >Instagram</a>
+<br>
+
+
+<!--<del>day day mot day phan cach</del>gạch bỏ-->
+
+<p style="text-align:center; font-family:Adobe Ming Std; font-size:14px"><em>"Every secret of a writer's soul, every experience of my life, every quality of my mind, is written large in <strong>my works</strong>."</em></p>
+
+<!--<a href="default.html" title="Home">Back to Home</a>-->
+</body>
+</html>
