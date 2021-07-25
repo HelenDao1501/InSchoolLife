@@ -1,0 +1,4 @@
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductLibrary\obj\Debug\FacultyAssemblies.csprojAssemblyReference.cache
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductLibrary\obj\Debug\FacultyAssemblies.csproj.CoreCompileInputs.cache
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductLibrary\obj\Debug\ProductLibrary.pdb

@@ -1,0 +1,8 @@
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\FacultyManagement.csprojAssemblyReference.cache
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\ProductManagement.frmMaintainFaculty.resources
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\ProductManagement.frmFacultyDetail.resources
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\FacultyManagement.csproj.GenerateResource.cache
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\FacultyManagement.csproj.CoreCompileInputs.cache
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\yiyangqianxi\Desktop\WinformCb\Assignment3\ProductManagement\obj\Debug\ProductManagement.pdb
