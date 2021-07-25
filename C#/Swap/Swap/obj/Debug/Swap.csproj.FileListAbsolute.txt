@@ -1,0 +1,7 @@
+C:\Users\yiyangqianxi\Desktop\チャム\CN5\C#\LAB\Swap\Swap\bin\Debug\Swap.exe.config
+C:\Users\yiyangqianxi\Desktop\チャム\CN5\C#\LAB\Swap\Swap\bin\Debug\Swap.exe
+C:\Users\yiyangqianxi\Desktop\チャム\CN5\C#\LAB\Swap\Swap\bin\Debug\Swap.pdb
+C:\Users\yiyangqianxi\Desktop\チャム\CN5\C#\LAB\Swap\Swap\obj\Debug\Swap.csprojAssemblyReference.cache
+C:\Users\yiyangqianxi\Desktop\チャム\CN5\C#\LAB\Swap\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\yiyangqianxi\Desktop\チャム\CN5\C#\LAB\Swap\Swap\obj\Debug\Swap.exe
+C:\Users\yiyangqianxi\Desktop\チャム\CN5\C#\LAB\Swap\Swap\obj\Debug\Swap.pdb
