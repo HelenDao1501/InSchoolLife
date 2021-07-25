@@ -1,0 +1,10 @@
+D:\CN\PRN292\HOME\Assignment-2\MyApp\bin\Debug\MyApp.exe.config
+D:\CN\PRN292\HOME\Assignment-2\MyApp\bin\Debug\MyApp.exe
+D:\CN\PRN292\HOME\Assignment-2\MyApp\bin\Debug\MyApp.pdb
+D:\CN\PRN292\HOME\Assignment-2\MyApp\bin\Debug\MyBookLibrary.dll
+D:\CN\PRN292\HOME\Assignment-2\MyApp\bin\Debug\MyBookLibrary.pdb
+D:\CN\PRN292\HOME\Assignment-2\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+D:\CN\PRN292\HOME\Assignment-2\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\CN\PRN292\HOME\Assignment-2\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+D:\CN\PRN292\HOME\Assignment-2\MyApp\obj\Debug\MyApp.exe
+D:\CN\PRN292\HOME\Assignment-2\MyApp\obj\Debug\MyApp.pdb
