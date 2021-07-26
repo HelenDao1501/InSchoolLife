@@ -3,8 +3,8 @@
 #This Response Area Including Some:
   
   -Folders: assignments, small project, labs,..
-  - 💻:Java, C #, SQL Server
-  - 🛠:HTML, CSS, JavaScript
+  - 💻:Java, C #, SQL Server,..
+  - 🛠:HTML, CSS, JavaScript,..
   ..... still updating
 
 ## For more information contact me via: 	
