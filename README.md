@@ -1,4 +1,3 @@
-## You are in **InSchoolLife** from @Helen1501 :
 
 #This Response Area Including Some:
   
