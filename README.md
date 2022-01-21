@@ -6,10 +6,4 @@
   - 💻:Java, C #, SQL Server,..
   - 🛠:HTML, CSS, JavaScript,..
 
-## For more information contact me via: 	
-  - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
-  - **Email:** tramdb1501@gmail.com
-
-###### Grateful for your concern 😉 
-
 &copy; 2020 trambdao
