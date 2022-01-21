@@ -5,7 +5,6 @@
   -Folders: assignments, small project, labs,..
   - 💻:Java, C #, SQL Server,..
   - 🛠:HTML, CSS, JavaScript,..
-  ..... still updating
 
 ## For more information contact me via: 	
   - **LinkedIn:** [Tram Dao](www.linkedin.com/in/helen-dao)
